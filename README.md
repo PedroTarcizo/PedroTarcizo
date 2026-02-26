@@ -10,4 +10,4 @@ I love bridging the gap between physical products and digital solutions. My main
 * Developing scripts for CAD automation and 3D modeling.
 * Exploring the intersection of automotive engineering and software.
 
-📫 **Let's connect:** [https://www.linkedin.com/in/pedro-tarcizo-2a08a4224/]
+📫 **Let's connect:** https://www.linkedin.com/in/pedro-tarcizo-2a08a4224/
