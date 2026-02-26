@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Pedro Tarcizo! 👋
+## A.k.a `Pedro.tar.cizo` 📦 - The complete package of Engineering & Code.
 
-<!--
-**PedroTarcizo/PedroTarcizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I am a Mechanical Engineer working with automotive product development and problem-solving [cite: 18, 38][cite_start], currently expanding my technical stack through Harvard's CS50. 
 
-Here are some ideas to get you started:
+I love bridging the gap between physical products and digital solutions. My main focus right now is using programming (Python, C#) to automate engineering workflows, optimize processes, and manipulate CAD software (like Siemens NX and CATIA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **What I'm currently focused on:**
+* Deepening my Computer Science fundamentals via CS50.
+* Developing scripts for CAD automation and 3D modeling.
+* Exploring the intersection of automotive engineering and software.
+
+📫 **Let's connect:** [https://www.linkedin.com/in/pedro-tarcizo-2a08a4224/]
